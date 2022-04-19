@@ -1,0 +1,14 @@
+# ninja log v5
+36	468	6720947016053899	CMakeFiles/yoga.dir/yoga/yoga/YGNodePrint.cpp.obj	46a0b39bb5e7c879
+41	474	6720947016053899	CMakeFiles/yoga.dir/yoga/yoga/YGValue.cpp.obj	26a9bc87006df092
+15	496	6720947016510624	CMakeFiles/yoga.dir/yoga/yoga/YGEnums.cpp.obj	2f3ecdd9f705ec13
+0	565	6720947017135773	CMakeFiles/yoga.dir/yoga/yoga/YGConfig.cpp.obj	1573965b94d5beb1
+56	608	6720947017764999	CMakeFiles/yoga.dir/yoga/yoga/event/event.cpp.obj	5e271861f7df89dd
+51	613	6720947017764999	CMakeFiles/yoga.dir/yoga/yoga/internal/experiments.cpp.obj	9e0ddb57676095cc
+61	768	6720947019369863	CMakeFiles/yoga.dir/yoga/yoga/log.cpp.obj	73bb2b555fba7719
+31	783	6720947019486594	CMakeFiles/yoga.dir/yoga/yoga/YGStyle.cpp.obj	a5b9886420aca422
+20	797	6720947019642963	CMakeFiles/yoga.dir/yoga/yoga/YGLayout.cpp.obj	39cdad423dce6119
+11	874	6720947020428331	CMakeFiles/yoga.dir/yoga/yoga/Utils.cpp.obj	16f7594660cecbf1
+46	933	6720947021053561	CMakeFiles/yoga.dir/yoga/yoga/Yoga.cpp.obj	f02b6bb41c41a97d
+25	1070	6720947022357011	CMakeFiles/yoga.dir/yoga/yoga/YGNode.cpp.obj	4ad99eafb8466d82
+1076	1140	6720947023092310	yoga.lib	e226f75aa075fba6
