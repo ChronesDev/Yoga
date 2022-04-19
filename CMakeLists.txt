@@ -16,9 +16,8 @@ add_compile_options(
     -Wall
     -std=c++11)
 
-file(GLOB_RECURSE yogacore_SRC yoga/*.cpp)
-add_library(yogacore STATIC ${yogacore_SRC})
+file(GLOB_RECURSE yoga_impl yoga/yoga/*.cpp)
+add_library(yoga STATIC ${yoga_impl})
 
-target_include_directories(yogacore PUBLIC .)
-target_link_libraries(yogacore android log)
-set_target_properties(yogacore PROPERTIES CXX_STANDARD 11)
+target_include_directories(yoga PUBLIC yoga/)
+set_target_properties(yoga PROPERTIES CXX_STANDARD 11)
